@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "number": "TN-45-A-102",
+    "name": "City Express",
+    "from": "Trichy",
+    "to": "Srirangam",
+    "time": "07:30 AM",
+    "stops": [
+      "Trichy",
+      "Thillai Nagar",
+      "Woraiyur",
+      "Srirangam"
+    ]
+  },
+  {
+    "id": 2,
+    "number": "TN-45-B-205",
+    "name": "Green Line",
+    "from": "Trichy",
+    "to": "Thanjavur",
+    "time": "09:00 AM",
+    "stops": [
+      "Trichy",
+      "Samayapuram",
+      "Lalgudi",
+      "Thanjavur"
+    ]
+  },
+  {
+    "id": 3,
+    "number": "TN-48-C-310",
+    "name": "Metro Rider",
+    "from": "Trichy",
+    "to": "Manapparai",
+    "time": "10:15 AM",
+    "stops": [
+      "Trichy",
+      "Viralimalai",
+      "Ponnamaravathi",
+      "Manapparai"
+    ]
+  },
+  {
+    "id": 4,
+    "number": "TN-45-D-415",
+    "name": "Rapid Bus",
+    "from": "Srirangam",
+    "to": "Trichy",
+    "time": "05:30 PM",
+    "stops": [
+      "Srirangam",
+      "Woraiyur",
+      "Thillai Nagar",
+      "Trichy"
+    ]
+  },
+  {
+    "id": 5,
+    "number": "TN-55-E-520",
+    "name": "Town Rider",
+    "from": "Trichy",
+    "to": "Musiri",
+    "time": "06:45 PM",
+    "stops": [
+      "Trichy",
+      "Manachanallur",
+      "Thottiyam",
+      "Musiri"
+    ]
+  }
+]
